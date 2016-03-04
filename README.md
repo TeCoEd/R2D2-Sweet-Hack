@@ -2,7 +2,7 @@
 This R2D2 hack is the droid you are looking for!
 A R2D2 sweet dispenser that is hacked full of surprises! No sweets though!
 
-![](images/R2D2)
+![](images/R2D2.png)
 
 A STAR WARS Raspberry Pi hack which flashes a red LED, randomly gives the user a little electric shock, just like R2D2, streams a web cam and broadcasts a song, the Star Wars theme to a FM radio.
 
