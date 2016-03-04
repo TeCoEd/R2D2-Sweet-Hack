@@ -24,6 +24,6 @@ A STAR WARS Raspberry Pi hack which flashes a red LED, randomly gives the user a
 2. Install Webcam: https://medium.com/@Cvrsor/how-to-make-a-diy-home-alarm-system-with-a-raspberry-pi-and-a-webcam-2d5a2d61da3d#.3ummhttgk
 3. Install PiFm: http://www.tecoed.co.uk/pifm.html
 
-# Disclaimer: The Radio functionality is used as an example and not for use.  
-
 Project website: http://www.tecoed.co.uk/r2d2.html
+
+# Disclaimer: The Radio functionality is used as an example and not for use.  
