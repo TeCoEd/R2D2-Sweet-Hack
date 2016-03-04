@@ -10,8 +10,8 @@ A STAR WARS Raspberry Pi hack which flashes a red LED, randomly gives the user a
 1. R2D2 sweet dispenser
 2. Red LED
 3. Resistor for LED
-4. Small Haptic Motor
-5. Small Webcam
+4. Small Mini Disc Motors http://www.robotshop.com/uk/2mm-mini-vibrating-disk-motor.html?gclid=CMyL2uX2p8sCFcO4Gwod8bMN_Q
+5. Small Webcam http://www.amazon.co.uk/Generic-Retractable-WebCam-Camera-Computer/dp/B00E39TZBY
 6. Raspberry Pi B+
 7. Case
 8. Wires
