@@ -26,4 +26,8 @@ A STAR WARS Raspberry Pi hack which flashes a red LED, randomly gives the user a
 
 Project website: http://www.tecoed.co.uk/r2d2.html
 
+R2D2 video: https://www.youtube.com/watch?v=VnOsUaS5jSY
+
 # Disclaimer: The Radio functionality is used as an example and not for use.  
+
+
